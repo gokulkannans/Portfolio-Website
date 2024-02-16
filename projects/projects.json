@@ -32,7 +32,7 @@
   {
     "name": "OTP Login like Hotstar",
     "desc": "A real scenario otp model build using the reactjs with industrial logic code.",
-    "image": "wc",
+    "image": "otp",
     "category": "Web/Mob App",
     "links": {
       "view": "#",
